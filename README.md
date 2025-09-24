@@ -35,9 +35,8 @@ All pages share a consistent layout and styling via **style.css**.
 - CSS3 (layout, responsive design, animations, hover effects)  
 - GitHub Pages (for hosting the live site)  
 
----
+---[Project class 1.pdf](https://github.com/user-attachments/files/22524240/Project.class.1.pdf)
 
-[Project class 1.pdf](https://github.com/user-attachments/files/22524228/Project.class.1.pdf)
 <img width="2560" height="1328" alt="hobbies" src="https://github.com/user-attachments/assets/ebb21407-45dc-4d02-a485-92ac46f78368" />
 <img width="2560" height="1330" alt="page 3" src="https://github.com/user-attachments/assets/af5d28c9-f81a-4ed6-9631-aa23259564d6" />
 <img width="2560" height="1426" alt="page 2" src="https://github.com/user-attachments/assets/8375c043-91c7-4df0-b7ff-0c3c424edac4" />
